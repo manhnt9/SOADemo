@@ -1,0 +1,23 @@
+{
+  "name": "soa_demo",
+  "version": "1.0.0",
+  "description": "SOA demo with Apache Thrift",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zer0-x/SOADemo.git"
+  },
+  "author": "Manh Nguyen Tien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zer0-x/SOADemo/issues"
+  },
+  "homepage": "https://github.com/zer0-x/SOADemo#readme",
+  "dependencies": {
+    "thrift": "^0.10.0"
+  }
+}
